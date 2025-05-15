@@ -11,3 +11,5 @@ Feel free to check out my LinkedIn profile: [Eleazer Amevor-Agbo](https://www.li
 <h2>🛢 Building Databases - Data Wrangling and SQL Projects:</h2>
 
 [A MySQL Query Example for an Eye Clinic Database](https://github.com/Eli-Mevor/Portfolio-Projects/blob/main/B-Sky%20Database%20Schema%20With%20Efficient%20Indexing.sql)
+
+[ Data Wrangling of COVID-19 Data Using SQL](https://github.com/Eli-Mevor/Portfolio-Projects/blob/main/Covid%20SQL%20Query.sql)
